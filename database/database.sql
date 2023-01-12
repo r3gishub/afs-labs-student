@@ -1,6 +1,6 @@
 --
 -- PostgreSQL database dump
---new comment 2
+--new comment 4
 
 -- Dumped from database version 9.5.4
 -- Dumped by pg_dump version 9.5.4
